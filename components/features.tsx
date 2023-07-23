@@ -6,8 +6,8 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">We provide features that will make you say wow</h2>
-            <p className="text-xl text-gray-400">Starting from Fast VPS connection to 24/7 Customer support, our hosting has got it all.</p>
+            <h2 className="h2 mb-4">We provide features that will make you say WOW</h2>
+            <p className="text-xl text-gray-400">Starting from Powerful VPSes to 24/7 Customer support, our hosting has got it all.</p>
           </div>
 
           {/* Items */}
@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">High Power</h4>
-              <p className="text-lg text-gray-400 text-center">Experience VPSes which are made up of more powerful components which are ready to provide you with quick and fast reactions.</p>
+              <p className="text-lg text-gray-400 text-center">Experience unparalleled speed and responsiveness with our high powered Servers</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +31,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Affordable Prices</h4>
-              <p className="text-lg text-gray-400 text-center">Get to see the lowest prices of Hosting in the whole wide web in our website, with no scam and with the same quality and customer care provided by others.</p>
+              <h4 className="h4 mb-2">Unbeatable Prices</h4>
+              <p className="text-lg text-gray-400 text-center">Unfindable prices on the web - no scams, just top-notch quality and exceptional customer care</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Resource Saving</h4>
-              <p className="text-lg text-gray-400 text-center">VPSes that minimise their power when not running any application keeps on working without the sky high costs.</p>
+              <h4 className="h4 mb-2">Efficient VPSes</h4>
+              <p className="text-lg text-gray-400 text-center">Minimized system usage when not in use prevent sky-high costs</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">0% Lag</h4>
-              <p className="text-lg text-gray-400 text-center">Experience no lag while trying to connect or opperate your system even from long distances.</p>
+              <h4 className="h4 mb-2">Zero Lag</h4>
+              <p className="text-lg text-gray-400 text-center">Seamless connectivity, even across long distances - experience zero lag on our Servers</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">24/7 Customer Support</h4>
-              <p className="text-lg text-gray-400 text-center">Get help with issues from people always being there to support your issues.</p>
+              <h4 className="h4 mb-2">Enhanced Security</h4>
+              <p className="text-lg text-gray-400 text-center">Robust protection with firewalls, DDoS defense, and backups for your data and peace of mind</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +85,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">24/7 Support</h4>
+              <p className="text-lg text-gray-400 text-center">Count on our team to be always there, assisting you with any issues related to our service</p>
             </div>
 
           </div>
